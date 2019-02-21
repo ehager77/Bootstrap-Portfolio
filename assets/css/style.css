@@ -24,6 +24,7 @@
 .navbar{
   font-family: 'Karla', sans-serif;
   padding: 20px 0 20px;
+  margin-bottom: 20px;
 }
 .nav-item{
   padding-right: 15px;
@@ -48,31 +49,23 @@ section {
 #my-work{
   padding-top:50px;
   height: 100%;
-  margin-bottom: 150px;
 }
 
 #about{
   padding-top:30px;
   height: 700px;
+  margin-bottom:50px;
 }
 
 #contact{
-  height: 100%;
-  padding-bottom: 100px;
+  padding-top:100px;
+  height: 800px;
 }
+
 
 .lead{
   letter-spacing: .5em;
 }
-
-@media (min-width: 768px) {
-  .carousel-multi-item-2 .col-md-3 {
-  float: left;
-  width: 25%;
-  max-width: 100%; } }
-  
-  .carousel-multi-item-2 .card img {
-  border-radius: 2px; }
 
   .row{
 
@@ -104,8 +97,4 @@ section {
 
   p{
     margin-right: 30px;
-  }
-
-  #contact-header{
-    margin-top: 30px;
   }
