@@ -81,8 +81,9 @@ section {
   }
 
   #eric{
-    width:300px;
-    height:300px;
+    padding-bottom: 50px;
+    width:400px;
+    height:400px;
   }
 
   #logo{
@@ -91,6 +92,9 @@ section {
 
   .card{
     margin-top: 20px;
+    margin-right:20px;
+    margin-left:20px;
+    margin-bottom: 20px;
   }
 
   #message{
